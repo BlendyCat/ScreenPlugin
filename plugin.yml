@@ -1,0 +1,10 @@
+name: Screen
+main: me.blendycat.main.Main
+version: 1.0
+commands:
+  createscreen:
+    description:
+    usage: /<command> <name>
+  deletescreen:
+    description:
+    usage: /<command> <name>
